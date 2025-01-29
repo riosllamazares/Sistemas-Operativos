@@ -1,8 +1,0 @@
-site_name: riosllamazares.com
-site_url: https://docencia.riosllamazares.com
-nav:
-  - Docencia: index.md
-  - Fotografia: fotografia.md
-  - Proyectos: proyectos.md
-theme:
-  name: material
